@@ -12,4 +12,4 @@
 * Decimal number system
 * Hexadecimal (Hex) number system
 # SWOT
-SWOT
+![SWOT]
