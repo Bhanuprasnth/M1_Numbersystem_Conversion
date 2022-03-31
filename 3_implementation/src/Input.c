@@ -33,5 +33,10 @@ void Input()
 		}
 	}
 	printf("Enter here : ");
+	
 	scanf("%d",&rns);//to select the required number system
+}
+int count(int num){
+	int count_ = num+num;
+	return count_;
 }
