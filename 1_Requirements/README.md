@@ -15,6 +15,10 @@
 # Who
 * Number system
 # What
-* To build a system for conversion of one type of number system into another number system.
+* To build a system for conversion of one type of number system into another number system
 # When
-* when user wants to carry out the tasks and this reduces manual work and saves time.
+* when user wants to carry out the tasks quickly and this reduces manual work and saves time
+# Where
+* This can be used for solving different types of Number system conversion for the user
+# How
+* By creating a system which will provide all the functionalities required, the conversion of number system will converts one system to other system
