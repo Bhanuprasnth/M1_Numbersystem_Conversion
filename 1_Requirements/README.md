@@ -11,5 +11,4 @@
 * Octal number system
 * Decimal number system
 * Hexadecimal (Hex) number system
-# SWOT
-![SWOT]
+
