@@ -7,3 +7,4 @@
 
 [![Code Quality - Cppcheck](https://github.com/Bhanuprasnth/M1_Numbersystem_Conversion/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Bhanuprasnth/M1_Numbersystem_Conversion/actions/workflows/c-cpp.yml)
 [![Analysis](https://github.com/Bhanuprasnth/M1_Numbersystem_Conversion/actions/workflows/analysis.yml/badge.svg)](https://github.com/Bhanuprasnth/M1_Numbersystem_Conversion/actions/workflows/analysis.yml)
+[![Bulid CI - windows](https://github.com/Bhanuprasnth/M1_Numbersystem_Conversion/actions/workflows/windows.yml/badge.svg)](https://github.com/Bhanuprasnth/M1_Numbersystem_Conversion/actions/workflows/windows.yml)
